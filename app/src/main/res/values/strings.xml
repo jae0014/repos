@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LineAndroid</string>
+
+    <string name="memo_title_label">제목</string>
+    <string name="date_mod_label">최종수정일</string>
+    <string name="detail_label">상세내용</string>
+    <string name="image_addBTN">이미지 추가</string>
+    <string name="image_url">URL 이미지</string>
+    <string name="image_add_label">이미지 추가</string>
+
+    <string name="nullToast">제목 또는 상세내용이 없습니다</string>
+
+</resources>
